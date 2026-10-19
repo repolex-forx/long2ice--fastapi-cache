@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/long2ice/fastapi-cache/commit/b2143ef85e2868dace363e432a0683675577bf81",
       "git:hexsha": "b2143ef85e2868dace363e432a0683675577bf81",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-19T13:36:54.854240+00:00"
     },
     {
       "@id": "https://repolex.ai/r/long2ice/fastapi-cache/commit/c0259bc699f3b87bb42500b6c7c9d2ff2fbceb62",
